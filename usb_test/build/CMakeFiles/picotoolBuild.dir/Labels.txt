@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+C:/Projects/Ethernet/usb_test/build/CMakeFiles/picotoolBuild
+C:/Projects/Ethernet/usb_test/build/CMakeFiles/picotoolBuild.rule
+C:/Projects/Ethernet/usb_test/build/CMakeFiles/picotoolBuild-complete.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/Projects/Ethernet/usb_test/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

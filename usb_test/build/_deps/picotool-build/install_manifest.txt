@@ -1,0 +1,7 @@
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/picotool.exe
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/picotoolTargets.cmake
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/picotoolConfig.cmake
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/picotoolConfigVersion.cmake
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/enc_bootloader.elf
+C:/Projects/Ethernet/usb_test/build/_deps/picotool/enc_bootloader_mbedtls.elf
